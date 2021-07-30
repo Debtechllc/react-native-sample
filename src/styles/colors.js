@@ -1,0 +1,9 @@
+export const darkColor = '#094399';
+export const lightColor = '#FFFFFF'
+export const buttonBg = { backgroundColor: '#0040FF'}
+export const containerBg = {  backgroundColor: '#FFFFFF' }
+export const placeholderTextColor = '#FFFFFF'
+export const mainTextColor = {color: '#fff'}
+export const textInputColor = {color: '#000'}
+export const grayColor = {color: '#6E6E6E'}
+export const blueColor = {color: '#F5F5F5'}
